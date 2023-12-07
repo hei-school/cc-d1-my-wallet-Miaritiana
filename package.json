@@ -1,0 +1,22 @@
+{
+  "name": "cc-d1-my-wallet-miaritiana",
+  "version": "1.0.0",
+  "description": "wallet-app",
+  "main": "wallet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hei-school/cc-d1-my-wallet-Miaritiana.git"
+  },
+  "author": "Miaritiana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hei-school/cc-d1-my-wallet-Miaritiana/issues"
+  },
+  "homepage": "https://github.com/hei-school/cc-d1-my-wallet-Miaritiana#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
